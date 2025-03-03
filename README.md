@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Development Projects (HTML, CSS, JavaScript)<br>Software Development (C, C++, JavaScript)<br>Database-Driven Applications (MySQL)<br>🌱 I’m currently learning Advanced Web Development (React, back-end development, APIs)
+🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Development Projects (HTML, CSS, JavaScript)<br>Software Development (C, Python, JavaScript)<br>Database-Driven Applications (MySQL)<br>🌱 I’m currently learning Advanced Web Development (Django_Rest_Framework, back-end development, APIs)
 
 
 ## 🌐 Socials:
