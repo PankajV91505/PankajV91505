@@ -1,24 +1,75 @@
-## Hi there 👋
+# Hi there! 👋 I'm Pankaj Verma  
+![Visitor Badge](https://komarev.com/ghpvc/?username=PankajV91505&label=Visitors&color=0e75b6&style=flat)
 
-# 💫 About Me:
-🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Development Projects (HTML, CSS, JavaScript)<br>Software Development (C, Python, JavaScript)<br>Database-Driven Applications (MySQL)<br>🌱 I’m currently learning Advanced Web Development (Django_Rest_Framework, back-end development, APIs)
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/crazy__verma/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pankaj-verma-b73930273) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pankajv91505@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PankajV91505&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PankajV91505&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PankajV91505&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=PankajV91505&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Pankaj+Verma!;Full-Stack+Developer+%7C+CS+Undergrad;Let’s+build+something+awesome+🚀" alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=PankajV91505&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🎓 B.Tech in Computer Science (2021–2025)  
+🌱 Passionate about **Web Development**, **Backend APIs**, and **Automation**  
+🧠 Always learning new technologies and solving real-world problems  
+📬 Reach me at: [pankajv91505@gmail.com](mailto:pankajv91505@gmail.com)  
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/pankaj-verma-b73930273)
+- 💻 [GitHub](https://github.com/PankajV91505)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**: `C` `Python` `JavaScript`  
+**Frontend**: `HTML` `CSS` `React` `TailwindCSS` `Bootstrap`  
+**Backend**: `Flask` `Django REST Framework`  
+**Database**: `MySQL` `PostgreSQL`  
+**Tools**: `Git` `Postman` `Playwright` `Selenium`  
+**Libraries**: `Pandas` `BeautifulSoup` `SQLAlchemy`
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Tech | Description |
+|--------|------|-------------|
+| 🔗 [Hotel Booking Website](https://github.com/PankajV91505/Hotel-Website) | Flask + React + Razorpay | Full-stack booking app with JWT, OTP auth, and Google OAuth |
+| 🔗 [Social Media App](https://github.com/PankajV91505/Social-Media-Django) | React + Django | Modern app with secure OTP signup and JWT-protected posts |
+| 🔗 [LinkedIn Scraper](https://github.com/PankajV91505/LINKEDIN-SCRAPER) | Playwright + Pandas | Scrapes top LinkedIn job listings with human-like behavior |
+| 🔗 [LinkedIn API Trigger](https://github.com/PankajV91505/DJANGO-LINKEDIN-API) | Django + PostgreSQL | Triggers LinkedIn scraper via REST API |
+| 🔗 [Grocery Management](https://github.com/PankajV91505/Grocery_Store_System) | Flask + MySQL | CLI-based inventory and billing system |
+| 🔗 [College Sports Website](https://github.com/PankajV91505/college_sport_website) | HTML + CSS + JS | Static site for college tournaments & players |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PankajV91505&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PankajV91505&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PankajV91505&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🏆 Highlights
+
+- 📦 10+ public projects
+- 💬 100+ commits across repos
+- 🌟 Skilled in backend systems, automation, and full-stack apps
+- 🤝 Open to collaboration and learning new tech
+
+---
+
+### 🚀 Let’s build something amazing together!
